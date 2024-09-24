@@ -40,7 +40,7 @@
 - Работа модели
 ![alt text](https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res.png)
 - Работа бота в тг:
-- <p align="left">
+<p align="left">
   <img width="400" height="250" src="https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res1.png">
 </p>
 <p align="left">

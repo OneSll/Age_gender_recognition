@@ -40,8 +40,12 @@
 - Работа модели
 ![alt text](https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res.png)
 - Работа бота в тг:
-  - ![alt text](https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res1.png)
-    ![alt text](https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res2.png)
+- <p align="left">
+  <img width="400" height="250" src="https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res1.png">
+</p>
+<p align="left">
+  <img width="400" height="250" src="https://github.com/OneSll/Age_gender_recognition/blob/main/pic/res2.png">
+</p>
 
 ### Регистрация ПО
 Так же имеется свидетельство о гос. регистрации ПО для ЭВМ, см. вложения 
